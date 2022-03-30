@@ -1,3 +1,27 @@
 <resources>
-    <string name="app_name">CircularProgressView</string>
+    <string name="app_name">Circular Progress View Library Demo</string>
+    <string name="progress_stroke_width">Progress Stroke Width</string>
+    <string name="background_stroke_width">Background Stroke Width</string>
+    <string name="progress_cap">Progress Cap</string>
+    <string name="round">Round</string>
+    <string name="flat">Flat</string>
+    <string name="enable_dash_effect">Enable Dash Effect</string>
+    <string name="show_dot">Show Dot</string>
+    <string name="dash_length">Dash Length</string>
+    <string name="dash_offset">Dash Offset</string>
+    <string name="progress">Progress</string>
+    <string name="circular_bar_basic_functionality">Circular Bar\nBasic Functionality</string>
+    <string name="circular_bar_animations">Circular Bar\nAnimations</string>
+    <string name="latest_dash_effect">Latest\nDash Effect</string>
+    <string name="button_text_fade">FADE</string>
+    <string name="button_text_sweep">SWEEP</string>
+    <string name="button_text_minus">-</string>
+    <string name="text_10">10</string>
+    <string name="button_text_positive">+</string>
+    <string name="text_animation_duration">Animation Duration</string>
+    <string name="text_fade_repeat_count">Fade Repeat Count</string>
+    <string name="text_interpolator">Interpolator</string>
+    <string name="rb_text_accelerate">Accelerate</string>
+    <string name="rb_text_decelerate">Decelerate</string>
+    <string name="rb_text_linear">Linear</string>
 </resources>

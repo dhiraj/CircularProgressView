@@ -18,6 +18,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".AnimationActivity"
+            android:theme="@style/AppTheme.AnimatedCircular" />
+        <activity
+            android:name=".DashEffectActivity"
+            android:theme="@style/AppTheme.DashCircular" />
+        <activity
+            android:name=".BasicCircularBarActivity"
+            android:theme="@style/AppTheme.BasicCircular" />
+
     </application>
 
 </manifest>
